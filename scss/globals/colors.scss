@@ -1,0 +1,40 @@
+// theme colors
+$primary: #fff !default;
+$secondary: #fff !default;
+$font-color: #fff;
+$headline: #fff;
+$btn-text: #fff;
+$main: #fff;
+$tertiary: #fff;
+$stroke: #fff;
+$primary-opposite: #fff;
+$primary-light: #fff;
+$form-color: #fff;
+
+:root {
+	--primary: #fff;
+	--secondary: #fff;
+	--font-color: #fff;
+	--headline: #fff;
+	--btn-text: #fff;
+	--main: #fff;
+	--tertiary: #fff;
+	--stroke: #fff;
+	--primary-opposite: #fff;
+	--primary-light: #fff;
+	--form-color: #fff;
+}
+
+.body.dark_mode {
+	--primary: #fff;
+	--secondary: #fff;
+	--font-color: #fff;
+	--headline: #fff;
+	--btn-text: #fff;
+	--main: #fff;
+	--tertiary: #fff;
+	--stoke: #fff;
+	--primary-opposite: #fff;
+	--primary-light: #fff;
+	--form-color: #fff;
+}
